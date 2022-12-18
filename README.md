@@ -19,8 +19,8 @@ I am always looking to learn and grow as a developer, and very eager to apply my
 **`Recent Projects:`**
 ## CoinFolio(semi clone of Coin Market Cap app)
 This app is a convenient tool for tracking the prices of various cryptocurrencies. It provides users with real-time price updates and beautiful charts to visualize market trends. Additionally, users can save and manage their cryptocurrency portfolio in a persistent manner, allowing them to keep track of their investments over time. With this app, users can stay up-to-date on the latest developments in the crypto market and make informed investment decisions
+![Screenshot 2022-12-18 at 6 44 54 pm](https://user-images.githubusercontent.com/96099265/208287138-24a22bc4-97de-482d-801f-6d6a17fb532b.png)
 
-![Screenshot 2022-12-17 at 10 01 50 pm](https://user-images.githubusercontent.com/96099265/208280677-d7f1ec8a-c6a2-4ace-a37a-448bc6845253.png)
 ### Technologies and tools used: 
  - **Swiftui**
  - **Swift Chart** 
