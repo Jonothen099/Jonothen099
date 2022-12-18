@@ -9,7 +9,7 @@ I am always looking to learn and grow as a developer, and very eager to apply my
 
 **`Connect with me on`**
 
-<a href="https://www.linkedin.com/in/jono-jono-b8a32b247/">![icons8-linkedin-50](https://user-images.githubusercontent.com/96099265/208279772-46737771-ed4f-439a-89e8-a4e1b4b9637d.png)
+<a href="https://www.linkedin.com/in/jonoiosdev/">![icons8-linkedin-50](https://user-images.githubusercontent.com/96099265/208279772-46737771-ed4f-439a-89e8-a4e1b4b9637d.png)
 <a href = "mailto: jonothen99@gmail.com">![icons8-mail-55](https://user-images.githubusercontent.com/96099265/208280216-67b7620b-c5a5-4412-8c7c-a317b87aa47d.png)</a>
 
 
