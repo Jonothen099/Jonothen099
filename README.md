@@ -32,11 +32,9 @@ This app is a tool for tracking the prices of various cryptocurrencies. It provi
  - **Rest Api**
      - >All API call are done using async await method with minor use of Combine framework, While data are provided by CoinCap.io as well as Coingecko. 
 
-  
 
-
-
-
+## [Tech News](https://github.com/Jonothen099/HackedNews)
+This app offers you with a list of recent news headlines.scroll through to see more, or tap on a headline to read the full article. 
 
 
 
