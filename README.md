@@ -17,8 +17,9 @@ I am always looking to learn and grow as a developer, and very eager to apply my
  -->
 
 **`Recent Projects:`**
-## CoinFolio(semi clone of Coin Market Cap app)
-This app is a convenient tool for tracking the prices of various cryptocurrencies. It provides users with real-time price updates and beautiful charts to visualize market trends. Additionally, users can save and manage their cryptocurrency portfolio in a persistent manner, allowing them to keep track of their investments over time. With this app, users can stay up-to-date on the latest developments in the crypto market and make informed investment decisions
+## CoinFolio(semi clone of Coin Market Cap app)[https://github.com/Jonothen099/CoinFolio]
+This app is a tool for tracking the prices of various cryptocurrencies. It provides users with real-time price updates, and beautiful interactive candle and line charts visualize market trends. Additionally, users can save and manage their cryptocurrency portfolio in a persistence framework, allowing them to keep track of their investments over time. With this app users can stay informed about the ever-changing cryptocurrency market. 
+
 ![Screenshot 2022-12-18 at 6 44 54 pm](https://user-images.githubusercontent.com/96099265/208287138-24a22bc4-97de-482d-801f-6d6a17fb532b.png)
 
 ### Technologies and tools used: 
@@ -29,7 +30,7 @@ This app is a convenient tool for tracking the prices of various cryptocurrencie
  - **Core Data**
      - > To manage user portfolio's data in a persistent manner. 
  - **Rest Api**
-     - >All API call are done using async await method with minor used of Combine framework, Data are provided by CoinCap.io as well as Coingecko. 
+     - >All API call are done using async await method with minor use of Combine framework, While data are provided by CoinCap.io as well as Coingecko. 
 
   
 
