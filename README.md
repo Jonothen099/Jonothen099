@@ -35,7 +35,7 @@ This app is a tool for tracking the prices of various cryptocurrencies. It provi
 
 ## [Recent News](https://github.com/Jonothen099/RecentNews)
 This app offers a list of recent news headlines wiht corresponding points/votes, scroll through to see more, or tap on a headline to read the full article in an in app webview style. 
- > Disclaimer: This app is created by following Angela Yu IOS course. 
+ > Disclaimer: This app is created by following Angela Yu AppBrewery IOS Bootcamp Course
  
 
 ![Screenshot 2022-12-21 at 2 16 22 pm](https://user-images.githubusercontent.com/96099265/208812701-92fea762-d914-4676-806b-93756b1225d6.png)
@@ -48,3 +48,20 @@ This app offers a list of recent news headlines wiht corresponding points/votes,
 - **WebView**
      - > This allows users to open the news within the app. 
 
+
+ 
+ ## [Chatty App](https://github.com/Jonothen099/ChattyApp)
+This app allows users to securely authenticate themselves and chat with a simple and clean UI. This is not fully featured chat app, Howerver it ensured user can safely log in and out, keeping data private.
+ > Disclaimer: This app is created by following Angela Yu AppBrewery IOS Bootcamp Course
+ 
+
+ ![Screenshot 2022-12-21 at 9 21 03 pm](https://user-images.githubusercontent.com/96099265/208884524-1d2bcc7e-2036-4da4-ae09-5aab2994a405.png)
+
+
+### Technologies and tools used: 
+ - **UIKIT(Story board)**
+ - **MVC Architecture**
+ - **CocoaPods**
+     - > intergration of third party library is supported by Cocopods 
+- **FireBase**
+     - > FireStore is used to allow user to login and storing the chat data securely. 
