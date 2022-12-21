@@ -1,4 +1,4 @@
-<h2>Hi, I'm Jono</h2>
+<h1>Hi, I'm Jono</h1>
 
 
 **`IOS Engineer`**
@@ -10,7 +10,7 @@ I am always looking to learn and grow as a developer, and very eager to apply my
 **`Connect with me on`**
 
 <a href="https://www.linkedin.com/in/jonoiosdev/">![icons8-linkedin-50](https://user-images.githubusercontent.com/96099265/208279772-46737771-ed4f-439a-89e8-a4e1b4b9637d.png)
-<a href = "mailto: jonothen99@gmail.com">![icons8-mail-55](https://user-images.githubusercontent.com/96099265/208280216-67b7620b-c5a5-4412-8c7c-a317b87aa47d.png)</a>
+<a href = "mailto: jonothen99@gmail.com">![icons8-mail-50](https://user-images.githubusercontent.com/96099265/208280216-67b7620b-c5a5-4412-8c7c-a317b87aa47d.png)</a>
 
 
 <!--  [<img src="https://ghchart.rshah.org/Jonothen099" width="720">](#bottom)
@@ -34,7 +34,9 @@ This app is a tool for tracking the prices of various cryptocurrencies. It provi
 
 
 ## [Recent News](https://github.com/Jonothen099/RecentNews)
-This app offers you a list of recent news headlines, scroll through to see more, or tap on a headline to read the full article in an in app webview style. 
+This app offers a list of recent news headlines wiht corresponding points/votes, scroll through to see more, or tap on a headline to read the full article in an in app webview style. 
+ > Disclaimer: This app is created by following Angela Yu IOS course. 
+ 
 
 ![Screenshot 2022-12-21 at 2 16 22 pm](https://user-images.githubusercontent.com/96099265/208812701-92fea762-d914-4676-806b-93756b1225d6.png)
 
