@@ -44,7 +44,7 @@ This app offers a list of recent news headlines wiht corresponding points/votes,
  - **Swiftui**
  - **MVC Architecture**
  - **Rest Api**
-     - > API call is done using Apple traditional method with completion handler, Data are supplied by https://news.ycombinator.com/
+     - > API call is done using Apple traditional method Grand Central Dispatch that uses completion handler, Data are supplied by https://news.ycombinator.com/
 - **WebView**
      - > This allows users to open the news within the app. 
 
