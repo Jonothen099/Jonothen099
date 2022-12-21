@@ -33,9 +33,16 @@ This app is a tool for tracking the prices of various cryptocurrencies. It provi
      - >All API call are done using async await method with minor use of Combine framework, While data are provided by CoinCap.io as well as Coingecko. 
 
 
-## [Tech News](https://github.com/Jonothen099/HackedNews)
-This app offers you with a list of recent news headlines.scroll through to see more, or tap on a headline to read the full article. 
+## [Recent News](https://github.com/Jonothen099/RecentNews)
+This app offers you a list of recent news headlines, scroll through to see more, or tap on a headline to read the full article in an in app webview style. 
 
+![Screenshot 2022-12-21 at 2 16 22 pm](https://user-images.githubusercontent.com/96099265/208812701-92fea762-d914-4676-806b-93756b1225d6.png)
 
-
+### Technologies and tools used: 
+ - **Swiftui**
+ - **MVC Architecture**
+ - **Rest Api**
+     - > API call is done using Apple traditional method with completion handler, Data are supplied by https://news.ycombinator.com/
+- **WebView**
+     - > This allows users to open the news within the app. 
 
