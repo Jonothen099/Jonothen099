@@ -24,7 +24,7 @@ This app is a fully functional calculator app built with Swiftui and following t
 https://user-images.githubusercontent.com/96099265/222940855-ccf1e896-e7f6-4742-a519-a0ad3b309d69.mov
 
  ### Technologies and tools used: 
- - **Swiftui**
+ - **SwiftUi**
  - **Realm Persistance Data Base** 
    - > To manage user portfolio's data in a persistent manner. 
  - **MVVM Architecture**
@@ -37,7 +37,7 @@ This app is a tool for tracking the prices of various cryptocurrencies. It provi
 ![Screenshot 2022-12-18 at 6 44 54 pm](https://user-images.githubusercontent.com/96099265/208287138-24a22bc4-97de-482d-801f-6d6a17fb532b.png)
 
 ### Technologies and tools used: 
- - **Swiftui**
+ - **SwiftUi**
  - **Swift Chart** 
    - > New Apple Chart framework available from ios 16 and above. 
  - **MVVM Architecture**
@@ -55,7 +55,7 @@ This app offers a list of recent news headlines wiht corresponding points/votes,
 ![Screenshot 2022-12-21 at 2 16 22 pm](https://user-images.githubusercontent.com/96099265/208812701-92fea762-d914-4676-806b-93756b1225d6.png)
 
 ### Technologies and tools used: 
- - **Swiftui**
+ - **SwiftUi**
  - **MVC Architecture**
  - **Rest Api**
      - > API call is done using Apple traditional method Grand Central Dispatch that uses completion handler, Data are supplied by https://news.ycombinator.com/
