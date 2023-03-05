@@ -17,6 +17,20 @@ I am always looking to learn and grow as a developer, and very eager to apply my
  -->
 
 **`Recent Projects:`**
+ 
+## [Calculator App](https://github.com/Jonothen099/Calculator)
+This app is a fully functional calculator app built with Swiftui and following the MVVM architecture. The app offers history log and two mechanical keyboard-inspired themes that can be accessed using the dark mode toggle along with ability to dynamically adjust UI to different iPhones sizes
+ 
+https://user-images.githubusercontent.com/96099265/222940855-ccf1e896-e7f6-4742-a519-a0ad3b309d69.mov
+
+ ### Technologies and tools used: 
+ - **Swiftui**
+ - **Realm Persistance Data Base** 
+   - > To manage user portfolio's data in a persistent manner. 
+ - **MVVM Architecture**
+
+ 
+ 
 ## [CoinFolio(semi clone of Coin Market Cap app)](https://github.com/Jonothen099/CoinFolio)
 This app is a tool for tracking the prices of various cryptocurrencies. It provides users with real-time price updates, and beautiful interactive candle and line charts visualize market trends. Additionally, users can save and manage their cryptocurrency portfolio in a persistence framework, allowing them to keep track of their investments over time. With this app users can stay informed about the ever-changing cryptocurrency market. 
 
