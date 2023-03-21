@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/96099265/222940855-ccf1e896-e7f6-4742-
  ### Technologies and tools used: 
  - **SwiftUi**
  - **Realm Persistance Data Base** 
-   - > To manage user portfolio's data in a persistent manner. 
+   - > To manage calculator history data in a persistent manner. 
  - **MVVM Architecture**
 
  
