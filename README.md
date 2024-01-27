@@ -3,9 +3,12 @@
 
 **`IOS Engineer`**
 
-As a recent graduate with a degree in IT that focused on mobile development, I have gained a strong foundation in computer science principles and native IOS development using Swift by completed several personal projects and during my studies that emphasizes on usage of number of frameworks and tools.
-I am always looking to learn and grow as a developer, and very eager to apply my skills and knowledge to create intuitive and seamless iOS apps that people love to use.
-
+iOS developer with a solid foundation in computer science principles and a strong passion for native iOS app
+                    development. Proficient in Swift, SwiftUI, and UIKit, with hands-on experience gained through online courses and
+                    personal projects. Skilled at problem-solving and collaborative teamwork, as evidenced by my successful University
+                    course project and job as a barista, consistently delivering exceptional customer service and maintaining a positive
+                    attitude under pressure. Seeking an iOS development opportunity to apply my practical skills, continue learning, and
+                    contribute to innovative app solutions.
 
 **`Connect with me on`**
 
